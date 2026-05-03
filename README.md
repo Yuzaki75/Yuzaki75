@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a Second-year Computer Science student<br><br>I'm currently diving deep into the world of computer science, learning the fundamentals like programming, algorithms, and systems. As a beginner, I’m building my skills with languages like Python, Java, and C++. I’m especially excited about applying what I learn through hands-on projects and exploring new tools and technologies along the way.
+Hey there! I'm a Third-year Computer Science student<br><br>I'm currently diving deep into the world of computer science, learning the fundamentals like programming, algorithms, and systems. As a beginner, I’m building my skills with languages like Python, Java, and C++. I’m especially excited about applying what I learn through hands-on projects and exploring new tools and technologies along the way.
 
 
 ## 🌐 Socials:
